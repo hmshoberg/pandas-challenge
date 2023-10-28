@@ -6,5 +6,7 @@ Hint: Check out the sample solution called PyCitySchools_starter.ipynb located i
 
 
 Sources
+
 Code used to select school types - first() function
+
 https://github.com/abpuccini/pandas-challenge/blob/master/PyCitySchools/PyCitySchool.ipynb
