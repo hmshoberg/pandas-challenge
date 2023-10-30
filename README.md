@@ -6,7 +6,5 @@ Hint: Check out the sample solution called PyCitySchools_starter.ipynb located i
 
 
 Sources
+Scores by School Spendng = Chat GPT
 
-Code used to select school types - first() function
-
-https://github.com/abpuccini/pandas-challenge/blob/master/PyCitySchools/PyCitySchool.ipynb
